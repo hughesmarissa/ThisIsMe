@@ -11,3 +11,9 @@ body {
     display: block;
     margin: 25px;
 }
+
+#personalContent {
+    display: inline-flex;
+    border-radius: 50px;
+    
+}
