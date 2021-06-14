@@ -18,4 +18,7 @@ body {
     
 nav li {
     font-size: 2rem;
+    background-image: url("./media/limeBackground.png");
+    background-size: cover;
+    height: 1000px;
 }
