@@ -9,6 +9,7 @@ html {
  
 body {
     display: block;
+    position: fixed;
     margin: 25px;
     font-size: 2rem;
     background-image: url("./media/limeBackground.png");
@@ -16,10 +17,18 @@ body {
     height: 1000px;
 }
 
-#personalContent {
-    display: inline-flex;
-    border-radius: 50px;
-    
 nav li {
     
+}
+
+#personalContent {
+    display: flex;
+    background-color: white;
+    width: 650px;
+    height: 500px;
+    border-radius: 350px;
+    margin-top: 255px;
+    margin-left: 475px;
+    justify-content: center;
+    text-align: center;
 }
