@@ -12,8 +12,13 @@ body {
     margin: 25px;
 }
 
+<<<<<<< HEAD
 #personalContent {
     display: inline-flex;
     border-radius: 50px;
     
+=======
+nav li {
+    font-size: 2rem;
+>>>>>>> 8ca084fceafc47852f13b5cb417aa4760b755aab
 }
