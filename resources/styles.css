@@ -11,3 +11,7 @@ body {
     display: block;
     margin: 25px;
 }
+
+nav li {
+    font-size: 2rem;
+}
